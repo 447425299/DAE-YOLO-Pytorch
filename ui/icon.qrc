@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="img">
+    <file>img/选择.png</file>
+    <file>img/上.png</file>
+    <file>img/下.png</file>
+    <file>img/圆心.png</file>
+    <file>img/暂停.png</file>
+    <file>img/文件.png</file>
+    <file>img/结束.png</file>
+    <file>img/摄像头.png</file>
+    <file>img/运行.png</file>
+  </qresource>
+</RCC>
